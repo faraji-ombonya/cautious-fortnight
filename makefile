@@ -1,2 +1,2 @@
 ppr:
-	git push origin faraji && gh create pr --web -B dev
+	git push origin faraji && gh pr create --web -B dev
