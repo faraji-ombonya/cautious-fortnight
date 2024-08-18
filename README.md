@@ -1,7 +1,7 @@
 # Heart Disease Prediction System (Back-end)
 
 A heart disease prediction backend that loads a [trained classification model](https://github.com/faraji-ombonya/solid-adventure). 
-It then uses the model to serve request from the [front-end application](https://github.com/faraji-ombonya/stunning-guide).
+It then uses the model to serve requests from the [front-end application](https://github.com/faraji-ombonya/stunning-guide).
 
 ## Languages and Frameworks
 
