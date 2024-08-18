@@ -1,2 +1,15 @@
-# cautious-fortnight
-This GitHub repository deploys a Django API for predictions using the model from Tier 1. It is part of a three-tiered project aiming to predict heart disease. Tier 1 involves machine learning model development, Tier 2 deploys a Django API for predictions, and Tier 3 offers a React-based web interface for users to access and interact with the model.
+# Heart Disease Prediction System (Back-end)
+
+A heart disease prediction backend that loads a [trained classification model](https://github.com/faraji-ombonya/solid-adventure). 
+It then uses the model to serve request from the [front-end application](https://github.com/faraji-ombonya/stunning-guide).
+
+## Technologies and Tools
+
+- **Python:** Used for building the Django API.
+- **Django:** The framework for developing web applications and APIs.
+- **Django Rest Framework:** Utilized for creating RESTful APIs.
+
+## Key Concepts
+
+- **Machine Learning**: Leveraged to provide accurate predictions based on the model from Tier 1.
+- **RESTful APIs**: Developed to ensure smooth communication between the model and the user interface.
